@@ -35,6 +35,7 @@ cd mean
 cp .env.example .env
 docker-compose up -d
 ```
+(let switch to linux container)
 
 ### Credits
 
